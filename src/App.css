@@ -1,0 +1,14 @@
+.App {
+  min-height: 100vh;
+  position: relative;
+}
+
+@media (max-width: 768px) {
+  .section-title {
+    font-size: 1.75rem;
+  }
+
+  .section-subtitle {
+    font-size: 1rem;
+  }
+}
